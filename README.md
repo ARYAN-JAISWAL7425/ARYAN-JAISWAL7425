@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm ARYAN-JAISWAL7425</h1>
-<h3 align="center">Hi, I'm Aryan Jaiswal 👋 Passionate about coding, building projects, and learning new technologies.</h3>
+<h1 align="center">HEY, I'm ARYAN JAISWAL</h1>
+<h3 align="center">Hi, I'm Aryan Jaiswal Passionate about coding, building projects, and learning new technologies.</h3>
+
+- 🔭 I’m currently working on **E-commerce site**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
