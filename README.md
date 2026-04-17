@@ -1,8 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:38bdf8&height=230&section=header&text=Aryan%20Jaiswal&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI/ML%20Engineer%20%E2%80%A2%20Builder&descSize=18&descAlignY=55&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1a1b4b,75:4c1d95,100:7c3aed&height=250&section=header&text=Aryan%20Jaiswal&fontSize=55&fontColor=e0e7ff&fontAlignY=33&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI/ML%20Engineer%20%E2%80%A2%20Builder&descSize=18&descAlignY=53&descColor=a78bfa&animation=scaleIn)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=30&lines=Building+Real+Products+with+AI+%F0%9F%9A%80;Turning+Ideas+into+Deployed+Systems+%E2%9A%A1;Code+%E2%80%A2+Build+%E2%80%A2+Deploy+%E2%80%A2+Repeat+%F0%9F%94%81)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&repeat=true&width=750&height=45&lines=AI+%2F+ML+Engineer+%7C+Full+Stack+Developer+%F0%9F%A7%A0;MLOps+%7C+Production+AI+Systems+%E2%9A%99%EF%B8%8F;Passionate+About+Building+Real+World+Projects+%F0%9F%9A%80;Exploring+Generative+AI+%26+Agentic+AI+%F0%9F%A4%96;Turning+Ideas+into+Deployed+Systems+%E2%9A%A1)](https://git.io/typing-svg)
 
 <br>
 
@@ -232,4 +232,4 @@ const aryan = {
 
 <br>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1e3a5f,100:0f172a&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,25:4c1d95,50:1a1b4b,75:161b22,100:0d1117&height=120&section=footer)
