@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%" height="6" />
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="100%" height="220" alt="Hero Banner" />
 
 <br><br>
 
@@ -14,7 +14,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=900&height=50&lines=%F0%9F%A7%A0+AI+%2F+ML+Engineer+%7C+Full+Stack+Developer;%E2%9A%99%EF%B8%8F++MLOps+%7C+Production+AI+Systems;%F0%9F%9A%80+Passionate+About+Building+Real+World+Projects;%F0%9F%A4%96+Exploring+Generative+AI+%26+Agentic+AI;%E2%9A%A1+Turning+Ideas+into+Deployed+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=800&height=50&lines=%F0%9F%A7%A0+AI+%2F+ML+Engineer+%7C+Full+Stack+Dev;%E2%9A%99%EF%B8%8F++MLOps+%7C+Production+AI+Systems;%F0%9F%9A%80+Building+Real+World+Projects;%F0%9F%A4%96+Exploring+GenAI+%26+Agentic+AI;%E2%9A%A1+Turning+Ideas+into+Deployed+Systems" alt="Typing SVG" />
 
 <br>
 
@@ -25,13 +25,13 @@
 
 <br>
 
-![Profile Views](https://img.shields.io/badge/dynamic/json?label=PROFILE%20VIEWS&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Faryan-jaiswal-readme%2Fvisits&style=for-the-badge&color=7c3aed&labelColor=0d1117)
-![Followers](https://img.shields.io/github/followers/ARYAN-JAISWAL7425?label=FOLLOWERS&style=for-the-badge&color=a78bfa&labelColor=0d1117)
-![Status](https://img.shields.io/badge/-%F0%9F%9F%A2%20OPEN%20TO%20COLLAB-00D9FF?style=for-the-badge&labelColor=0d1117)
+<img src="https://komarev.com/ghpvc/?username=ARYAN-JAISWAL7425&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/ARYAN-JAISWAL7425?label=FOLLOWERS&style=for-the-badge&color=a78bfa&labelColor=0d1117" alt="Followers" />
+<img src="https://img.shields.io/badge/-%F0%9F%9F%A2%20OPEN%20TO%20COLLAB-00D9FF?style=for-the-badge&labelColor=0d1117" alt="Status" />
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%" height="6" />
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="100%" height="10" alt="Banner Strip" />
 
 </div>
 
@@ -98,7 +98,9 @@ const aryan: Developer = {
 <br>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="divider" />
+
+![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
 </div>
 
 <!-- ════════════════════════════════════════════════════════════════ -->
@@ -183,7 +185,9 @@ const aryan: Developer = {
 <br>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="divider" />
+
+![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
 </div>
 
 <!-- ════════════════════════════════════════════════════════════════ -->
@@ -253,7 +257,9 @@ const aryan: Developer = {
 <br>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="divider" />
+
+![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
 </div>
 
 <!-- ════════════════════════════════════════════════════════════════ -->
@@ -285,7 +291,9 @@ const aryan: Developer = {
 <br>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="divider" />
+
+![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
 </div>
 
 <!-- ════════════════════════════════════════════════════════════════ -->
