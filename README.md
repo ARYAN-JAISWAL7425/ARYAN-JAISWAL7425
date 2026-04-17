@@ -1,158 +1,197 @@
-![Header Strip](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1a1b4b,75:4c1d95,100:7c3aed&height=120&section=header&animation=twinkling)
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--  HERO BANNER                                                     -->
+<!-- ════════════════════════════════════════════════════════════════ -->
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="58%" valign="middle" align="left">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=48&duration=1&pause=99999999&color=A78BFA&width=600&height=75&lines=Aryan+Jaiswal" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=38BDF8&width=600&height=40&lines=AI+%2F+ML+Engineer+%7C+Full+Stack+Dev+%F0%9F%A7%A0;MLOps+%7C+Production+AI+Systems+%E2%9A%99%EF%B8%8F;Building+Real+World+Projects+%F0%9F%9A%80;Exploring+GenAI+%26+Agentic+AI+%F0%9F%A4%96" />
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/aryan-jaiswal-a87b5335a">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/ARYAN-JAISWAL7425">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:aryanoffical7425@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</td>
-<td width="42%" valign="middle" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="85%" alt="black hole" />
-
-</td>
-</tr>
-</table>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a1b4b,50:4c1d95,75:7c3aed,100:a78bfa&height=220&section=header&text=ARYAN%20JAISWAL&fontSize=72&fontColor=f5f3ff&fontAlignY=40&desc=%3C%20Full%20Stack%20Developer%20%2F%20AI%20%E2%80%A2%20ML%20Engineer%20%2F%20Builder%20%3E&descSize=18&descAlignY=62&descColor=c4b5fd&animation=twinkling&stroke=a78bfa&strokeWidth=1)
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" height="3" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=900&height=50&lines=%F0%9F%A7%A0+AI+%2F+ML+Engineer+%7C+Full+Stack+Developer;%E2%9A%99%EF%B8%8F++MLOps+%7C+Production+AI+Systems;%F0%9F%9A%80+Passionate+About+Building+Real+World+Projects;%F0%9F%A4%96+Exploring+Generative+AI+%26+Agentic+AI;%E2%9A%A1+Turning+Ideas+into+Deployed+Systems" />
+
+<br>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aryan-jaiswal-a87b5335a)
+[![Github Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ARYAN-JAISWAL7425)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:aryanoffical7425@gmail.com)
+[![Location](https://img.shields.io/badge/-Bhopal%2C%20India-7C3AED?style=for-the-badge&logo=google-maps&logoColor=white)](#)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=ARYAN-JAISWAL7425&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/ARYAN-JAISWAL7425?label=FOLLOWERS&style=for-the-badge&color=a78bfa&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/-Open%20to%20Collab-00D9FF?style=for-the-badge&logo=handshake&logoColor=white" />
 
 </div>
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--  NEON DIVIDER                                                    -->
+<!-- ════════════════════════════════════════════════════════════════ -->
 
-## `> whoami`
+![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aurora.png)
+
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--  ABOUT ME                                                        -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### ◦ ⋅ ✦ `whoami` ✦ ⋅ ◦
+
+</div>
 
 <table>
 <tr>
-<td width="50%">
+<td width="55%" valign="top">
 
-```js
-const aryan = {
-  role: "Full Stack Dev + AI/ML Engineer",
-  university: "VIT Bhopal University",
-  location: "Bhopal, India",
+```typescript
+const aryan: Developer = {
+  name: "Aryan Jaiswal",
+  role: ["Full Stack Dev", "AI/ML Engineer"],
+  education: "VIT Bhopal University 🎓",
+  location: "Bhopal, India 🇮🇳",
 
-  code: ["Python", "JavaScript", "TypeScript",
-         "Java", "C++"],
+  stack: {
+    langs:  ["Python", "TypeScript", "JavaScript",
+             "Java", "C++"],
+    focus:  ["Full Stack Web Dev",
+             "Generative AI & Agentic AI",
+             "MLOps & Production Systems",
+             "LLM Apps • RAG • Vector DBs"],
+  },
 
-  focus: [
-    "Full Stack Web Development",
-    "AI / ML Engineering",
-    "Generative AI & Agentic AI",
-    "MLOps & Production Systems",
-    "LLM Applications & RAG"
-  ],
+  nowBuilding: "Fashion Street 🛍️",
+  learning:    ["Agentic Workflows", "LangGraph",
+                "Model Deployment"],
 
-  currentlyBuilding: "Fashion Street",
-  motto: "If it works in a notebook, it ships to prod."
+  philosophy: "If it works in a notebook, ship it.",
 };
 ```
 
 </td>
-<td width="50%" align="center">
+<td width="45%" valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="90%" />
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="95%" style="border-radius: 10px;" />
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ARYAN-JAISWAL7425&theme=tokyonight&no-frame=true&row=1&column=4&margin-w=8&margin-h=8" />
+```
+┌──────────── STATUS ────────────┐
+│  ⚡  Coding        [ACTIVE]    │
+│  🎯  Goal          SHIP IT     │
+│  ☕  Fuel Level    MAX         │
+│  🌙  Mode          NIGHT OWL   │
+└────────────────────────────────┘
+```
 
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
-## `> tech --stack`
+![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aurora.png)
+
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--  TECH STACK                                                      -->
+<!-- ════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
+
+### ◦ ⋅ ✦ `tech --stack --all` ✦ ⋅ ◦
+
+<br>
 
 <table>
 <tr>
 <td align="center" width="25%">
 
-**`// Languages`**
+### `⟨ / ⟩`
+**Languages**
 
+<img src="https://skillicons.dev/icons?i=python,js,ts,java&theme=dark&perline=4" />
 <br>
-
-<img src="https://skillicons.dev/icons?i=python,js,ts&theme=dark" />
-<br>
-<img src="https://skillicons.dev/icons?i=java,cpp,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,html,css&theme=dark&perline=4" />
 
 </td>
 <td align="center" width="25%">
 
-**`// Frameworks`**
+### `⚛`
+**Frontend & Backend**
 
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark&perline=4" />
 <br>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs&theme=dark" />
-<br>
-<img src="https://skillicons.dev/icons?i=express,tailwind,bootstrap&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,bootstrap&theme=dark&perline=4" />
 
 </td>
 <td align="center" width="25%">
 
-**`// AI / ML`**
+### `🧠`
+**AI / ML**
 
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark&perline=4" />
 <br>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
-
-<br><br>
-
-![GenAI](https://img.shields.io/badge/GenAI-9333EA?style=flat-square&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-16A34A?style=flat-square)
-![LLMs](https://img.shields.io/badge/LLMs-EC4899?style=flat-square)
-![Agentic AI](https://img.shields.io/badge/Agentic-0EA5E9?style=flat-square)
-![MLOps](https://img.shields.io/badge/MLOps-F59E0B?style=flat-square)
+<img src="https://skillicons.dev/icons?i=sklearn&theme=dark&perline=4" />
 
 </td>
 <td align="center" width="25%">
 
-**`// DevTools`**
+### `🛠`
+**DevOps & Tools**
 
+<img src="https://skillicons.dev/icons?i=docker,git,github&theme=dark&perline=4" />
 <br>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" />
-<br>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark" />
-<br>
-<img src="https://skillicons.dev/icons?i=vscode,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman&theme=dark&perline=4" />
 
 </td>
 </tr>
 </table>
 
+<br>
+
+**`⟪ Specialized Domains ⟫`**
+
+<br>
+
+![Generative AI](https://img.shields.io/badge/Generative_AI-9333EA?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-0EA5E9?style=for-the-badge&logo=probot&logoColor=white&labelColor=0d1117)
+![LLM Apps](https://img.shields.io/badge/LLM_Apps-EC4899?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117)
+![RAG](https://img.shields.io/badge/RAG_Systems-16A34A?style=for-the-badge&logo=databricks&logoColor=white&labelColor=0d1117)
+![MLOps](https://img.shields.io/badge/MLOps-F59E0B?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0d1117)
+![Vector DB](https://img.shields.io/badge/Vector_DBs-7C3AED?style=for-the-badge&logo=pinecone&logoColor=white&labelColor=0d1117)
+
+**`⟪ Databases ⟫`**
+
+<br>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0d1117)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=0d1117)
+![Postgres](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117)
+
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
-## `> cat projects/featured.md`
+![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aurora.png)
+
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--  FEATURED PROJECT                                                -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### ◦ ⋅ ✦ `projects --featured` ✦ ⋅ ◦
+
+</div>
+
+<br>
 
 <div align="center">
 
 <a href="https://github.com/ARYAN-JAISWAL7425">
-<img src="https://img.shields.io/badge/%F0%9F%9B%8D%EF%B8%8F_Fashion_Street-Full_Stack_E--Commerce-38BDF8?style=for-the-badge&labelColor=0f172a" />
+<img src="https://img.shields.io/badge/%F0%9F%9B%8D%EF%B8%8F_FASHION_STREET-Full_Stack_E--Commerce_Platform-7C3AED?style=for-the-badge&labelColor=0d1117" height="40"/>
 </a>
 
 </div>
@@ -161,92 +200,155 @@ const aryan = {
 
 <table>
 <tr>
-<td width="60%">
+<td width="58%" valign="top">
 
-> A full-featured clothing e-commerce platform where users can browse, shop, and checkout seamlessly.
+> **A full-featured clothing e-commerce platform — browse, shop, and checkout seamlessly.**
 
-```
-  FEATURE                 STATUS
-  ======================== ======
-  Shopping Cart & Wishlist    [x]
-  Payment Gateway             [x]
-  Category Filters            [x]
-  Order Management            [x]
-  Auth & User Profiles        [x]
-  Responsive UI               [x]
-  AI Recommendations          [ ]  <- next up
+```yaml
+╭─ features ─────────────────────────────╮
+│                                        │
+│  ✓  Shopping Cart & Wishlist          │
+│  ✓  Secure Payment Gateway            │
+│  ✓  Category & Price Filters          │
+│  ✓  Order Management System           │
+│  ✓  Auth & User Profiles              │
+│  ✓  Fully Responsive UI               │
+│                                        │
+│  ◦  AI Outfit Recommendations [next]  │
+│  ◦  Virtual Try-On Engine     [next]  │
+│                                        │
+╰────────────────────────────────────────╯
 ```
 
 </td>
-<td width="40%" align="center">
+<td width="42%" valign="top" align="center">
 
-**Tech Used**
+**` ⟪ Tech Stack ⟫ `**
 
 <br>
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0d1117)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0d1117)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=0d1117)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0d1117)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0d1117)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white&labelColor=0d1117)
+
+<br>
+
+**` ⟪ Status ⟫ `**
+
+<br>
+
+![Status](https://img.shields.io/badge/🟢_In_Active_Development-16A34A?style=for-the-badge&labelColor=0d1117)
 
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
-## `> git log --graph --stats`
+![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aurora.png)
+
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--  GITHUB STATS                                                    -->
+<!-- ════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ARYAN-JAISWAL7425&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ARYAN-JAISWAL7425&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=475569" />
+### ◦ ⋅ ✦ `git log --graph --stats` ✦ ⋅ ◦
 
 <br>
 
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARYAN-JAISWAL7425&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8" />
-<img width="63%" src="https://github-readme-activity-graph.vercel.app/graph?username=ARYAN-JAISWAL7425&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=38bdf8&line=38bdf8&point=f97316&area=true&area_color=1e3a5f" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ARYAN-JAISWAL7425&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd&rank_icon=github&include_all_commits=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ARYAN-JAISWAL7425&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=38bdf8&currStreakLabel=a78bfa&sideLabels=c4b5fd&dates=64748b&stroke=a78bfa" />
+
+<br><br>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARYAN-JAISWAL7425&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c4b5fd&langs_count=8" />
+<img width="58%" src="https://github-readme-activity-graph.vercel.app/graph?username=ARYAN-JAISWAL7425&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=38bdf8&area=true&area_color=4c1d95" />
+
+<br><br>
+
+<!-- TROPHIES -->
+<img src="https://github-profile-trophy.vercel.app/?username=ARYAN-JAISWAL7425&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" />
+
+<br><br>
+
+<!-- SNAKE ANIMATION -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 
 </div>
 
 <br>
 
+![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aurora.png)
+
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--  QUOTE                                                           -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ARYAN-JAISWAL7425&theme=tokyonight" width="90%" />
+
+### ◦ ⋅ ✦ `echo $PHILOSOPHY` ✦ ⋅ ◦
+
+<br>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
-## `> ping socials`
+![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aurora.png)
+
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--  CONNECT                                                         -->
+<!-- ════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
+### ◦ ⋅ ✦ `ping aryan --connect` ✦ ⋅ ◦
+
+<br>
+
 ```
- ╔══════════════════════════════════════════╗
- ║  Let's connect and build something      ║
- ║  awesome together!                      ║
- ╚══════════════════════════════════════════╝
+╔════════════════════════════════════════════════════╗
+║                                                    ║
+║   Got an idea? A project? Just wanna talk code?   ║
+║         Reach out — let's build together.         ║
+║                                                    ║
+╚════════════════════════════════════════════════════╝
 ```
+
+<br>
 
 <a href="https://www.linkedin.com/in/aryan-jaiswal-a87b5335a" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+  <img src="https://skillicons.dev/icons?i=linkedin" width="55" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://github.com/ARYAN-JAISWAL7425" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="50" />
+  <img src="https://skillicons.dev/icons?i=github" width="55" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="mailto:aryanoffical7425@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" width="50" />
+  <img src="https://skillicons.dev/icons?i=gmail" width="55" />
+</a>
+&nbsp;
+<a href="https://discord.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=discord" width="55" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=ARYAN-JAISWAL7425&label=Profile%20Views&color=38bdf8&style=flat-square" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&height=30&lines=%E2%9C%A6+Code.+Build.+Deploy.+Repeat.+%E2%9C%A6;%E2%9C%A6+Always+Learning.+Always+Shipping.+%E2%9C%A6" />
 
 </div>
 
 <br>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,25:4c1d95,50:1a1b4b,75:161b22,100:0d1117&height=120&section=footer)
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--  FOOTER                                                          -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,25:7c3aed,50:4c1d95,75:1a1b4b,100:0d1117&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=f5f3ff&fontAlignY=75&animation=twinkling)
