@@ -1,10 +1,14 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1a1b4b,75:4c1d95,100:7c3aed&height=250&section=header&text=Aryan%20Jaiswal&fontSize=55&fontColor=e0e7ff&fontAlignY=33&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI/ML%20Engineer%20%E2%80%A2%20Builder&descSize=18&descAlignY=53&descColor=a78bfa&animation=scaleIn)
+![Header Strip](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1a1b4b,75:4c1d95,100:7c3aed&height=120&section=header&animation=twinkling)
 
-<div align="center">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="58%" valign="middle" align="left">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&repeat=true&width=750&height=45&lines=AI+%2F+ML+Engineer+%7C+Full+Stack+Developer+%F0%9F%A7%A0;MLOps+%7C+Production+AI+Systems+%E2%9A%99%EF%B8%8F;Passionate+About+Building+Real+World+Projects+%F0%9F%9A%80;Exploring+Generative+AI+%26+Agentic+AI+%F0%9F%A4%96;Turning+Ideas+into+Deployed+Systems+%E2%9A%A1)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=48&duration=1&pause=99999999&color=A78BFA&width=600&height=75&lines=Aryan+Jaiswal" />
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=38BDF8&width=600&height=40&lines=AI+%2F+ML+Engineer+%7C+Full+Stack+Dev+%F0%9F%A7%A0;MLOps+%7C+Production+AI+Systems+%E2%9A%99%EF%B8%8F;Building+Real+World+Projects+%F0%9F%9A%80;Exploring+GenAI+%26+Agentic+AI+%F0%9F%A4%96" />
+
+<br><br>
 
 <a href="https://www.linkedin.com/in/aryan-jaiswal-a87b5335a">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -15,6 +19,19 @@
 <a href="mailto:aryanoffical7425@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+</td>
+<td width="42%" valign="middle" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="85%" alt="black hole" />
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" height="3" />
 
 </div>
 
