@@ -2,11 +2,19 @@
 <!--  HERO BANNER                                                     -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a1b4b,50:4c1d95,75:7c3aed,100:a78bfa&height=220&section=header&text=ARYAN%20JAISWAL&fontSize=72&fontColor=f5f3ff&fontAlignY=40&desc=%3C%20Full%20Stack%20Developer%20%2F%20AI%20%E2%80%A2%20ML%20Engineer%20%2F%20Builder%20%3E&descSize=18&descAlignY=62&descColor=c4b5fd&animation=twinkling&stroke=a78bfa&strokeWidth=1)
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=900&height=50&lines=%F0%9F%A7%A0+AI+%2F+ML+Engineer+%7C+Full+Stack+Developer;%E2%9A%99%EF%B8%8F++MLOps+%7C+Production+AI+Systems;%F0%9F%9A%80+Passionate+About+Building+Real+World+Projects;%F0%9F%A4%96+Exploring+Generative+AI+%26+Agentic+AI;%E2%9A%A1+Turning+Ideas+into+Deployed+Systems" />
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%" height="6" />
+
+<br><br>
+
+# `< ARYAN JAISWAL />`
+
+### `// Full Stack Developer • AI / ML Engineer • Builder`
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=900&height=50&lines=%F0%9F%A7%A0+AI+%2F+ML+Engineer+%7C+Full+Stack+Developer;%E2%9A%99%EF%B8%8F++MLOps+%7C+Production+AI+Systems;%F0%9F%9A%80+Passionate+About+Building+Real+World+Projects;%F0%9F%A4%96+Exploring+Generative+AI+%26+Agentic+AI;%E2%9A%A1+Turning+Ideas+into+Deployed+Systems" alt="Typing SVG" />
 
 <br>
 
@@ -17,19 +25,17 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=ARYAN-JAISWAL7425&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/ARYAN-JAISWAL7425?label=FOLLOWERS&style=for-the-badge&color=a78bfa&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/-Open%20to%20Collab-00D9FF?style=for-the-badge&logo=handshake&logoColor=white" />
+![Profile Views](https://img.shields.io/badge/dynamic/json?label=PROFILE%20VIEWS&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Faryan-jaiswal-readme%2Fvisits&style=for-the-badge&color=7c3aed&labelColor=0d1117)
+![Followers](https://img.shields.io/github/followers/ARYAN-JAISWAL7425?label=FOLLOWERS&style=for-the-badge&color=a78bfa&labelColor=0d1117)
+![Status](https://img.shields.io/badge/-%F0%9F%9F%A2%20OPEN%20TO%20COLLAB-00D9FF?style=for-the-badge&labelColor=0d1117)
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%" height="6" />
 
 </div>
 
 <br>
-
-<!-- ════════════════════════════════════════════════════════════════ -->
-<!--  NEON DIVIDER                                                    -->
-<!-- ════════════════════════════════════════════════════════════════ -->
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
 
 <!-- ════════════════════════════════════════════════════════════════ -->
 <!--  ABOUT ME                                                        -->
@@ -72,7 +78,7 @@ const aryan: Developer = {
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="95%" style="border-radius: 10px;" />
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="95%" alt="Night Coding" />
 
 <br><br>
 
@@ -91,7 +97,9 @@ const aryan: Developer = {
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="divider" />
+</div>
 
 <!-- ════════════════════════════════════════════════════════════════ -->
 <!--  TECH STACK                                                      -->
@@ -110,9 +118,9 @@ const aryan: Developer = {
 ### `⟨ / ⟩`
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,java&theme=dark&perline=4" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,java&theme=dark&perline=4" alt="langs 1" />
 <br>
-<img src="https://skillicons.dev/icons?i=cpp,html,css&theme=dark&perline=4" />
+<img src="https://skillicons.dev/icons?i=cpp,html,css&theme=dark&perline=4" alt="langs 2" />
 
 </td>
 <td align="center" width="25%">
@@ -120,9 +128,9 @@ const aryan: Developer = {
 ### `⚛`
 **Frontend & Backend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark&perline=4" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark&perline=4" alt="frontend" />
 <br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,bootstrap&theme=dark&perline=4" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,bootstrap&theme=dark&perline=4" alt="backend" />
 
 </td>
 <td align="center" width="25%">
@@ -130,9 +138,9 @@ const aryan: Developer = {
 ### `🧠`
 **AI / ML**
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark&perline=4" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark&perline=4" alt="ai" />
 <br>
-<img src="https://skillicons.dev/icons?i=sklearn&theme=dark&perline=4" />
+<img src="https://skillicons.dev/icons?i=sklearn&theme=dark&perline=4" alt="sklearn" />
 
 </td>
 <td align="center" width="25%">
@@ -140,9 +148,9 @@ const aryan: Developer = {
 ### `🛠`
 **DevOps & Tools**
 
-<img src="https://skillicons.dev/icons?i=docker,git,github&theme=dark&perline=4" />
+<img src="https://skillicons.dev/icons?i=docker,git,github&theme=dark&perline=4" alt="devops" />
 <br>
-<img src="https://skillicons.dev/icons?i=vscode,figma,postman&theme=dark&perline=4" />
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman&theme=dark&perline=4" alt="tools" />
 
 </td>
 </tr>
@@ -174,7 +182,9 @@ const aryan: Developer = {
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="divider" />
+</div>
 
 <!-- ════════════════════════════════════════════════════════════════ -->
 <!--  FEATURED PROJECT                                                -->
@@ -184,15 +194,9 @@ const aryan: Developer = {
 
 ### ◦ ⋅ ✦ `projects --featured` ✦ ⋅ ◦
 
-</div>
-
 <br>
 
-<div align="center">
-
-<a href="https://github.com/ARYAN-JAISWAL7425">
-<img src="https://img.shields.io/badge/%F0%9F%9B%8D%EF%B8%8F_FASHION_STREET-Full_Stack_E--Commerce_Platform-7C3AED?style=for-the-badge&labelColor=0d1117" height="40"/>
-</a>
+[![Fashion Street](https://img.shields.io/badge/%F0%9F%9B%8D%EF%B8%8F_FASHION_STREET-Full_Stack_E--Commerce_Platform-7C3AED?style=for-the-badge&labelColor=0d1117)](https://github.com/ARYAN-JAISWAL7425)
 
 </div>
 
@@ -240,7 +244,7 @@ const aryan: Developer = {
 
 <br>
 
-![Status](https://img.shields.io/badge/🟢_In_Active_Development-16A34A?style=for-the-badge&labelColor=0d1117)
+![Status](https://img.shields.io/badge/%F0%9F%9F%A2%20In%20Active%20Development-16A34A?style=for-the-badge&labelColor=0d1117)
 
 </td>
 </tr>
@@ -248,7 +252,9 @@ const aryan: Developer = {
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="divider" />
+</div>
 
 <!-- ════════════════════════════════════════════════════════════════ -->
 <!--  GITHUB STATS                                                    -->
@@ -260,47 +266,27 @@ const aryan: Developer = {
 
 <br>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ARYAN-JAISWAL7425&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd&rank_icon=github&include_all_commits=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ARYAN-JAISWAL7425&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=38bdf8&currStreakLabel=a78bfa&sideLabels=c4b5fd&dates=64748b&stroke=a78bfa" />
+<a href="https://github.com/ARYAN-JAISWAL7425">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ARYAN-JAISWAL7425&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=ARYAN-JAISWAL7425&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=38bdf8&currStreakLabel=a78bfa&sideLabels=c4b5fd&dates=64748b&stroke=a78bfa" alt="Streak" />
+</a>
 
 <br><br>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARYAN-JAISWAL7425&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c4b5fd&langs_count=8" />
-<img width="58%" src="https://github-readme-activity-graph.vercel.app/graph?username=ARYAN-JAISWAL7425&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=38bdf8&area=true&area_color=4c1d95" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARYAN-JAISWAL7425&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c4b5fd&langs_count=8" alt="Top Languages" />
+<img width="58%" src="https://github-readme-activity-graph.vercel.app/graph?username=ARYAN-JAISWAL7425&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=38bdf8&area=true&area_color=4c1d95" alt="Activity Graph" />
 
 <br><br>
 
-<!-- TROPHIES -->
-<img src="https://github-profile-trophy.vercel.app/?username=ARYAN-JAISWAL7425&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" />
-
-<br><br>
-
-<!-- SNAKE ANIMATION -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=ARYAN-JAISWAL7425&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" alt="Trophies" />
 
 </div>
 
 <br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
-
-<!-- ════════════════════════════════════════════════════════════════ -->
-<!--  QUOTE                                                           -->
-<!-- ════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-### ◦ ⋅ ✦ `echo $PHILOSOPHY` ✦ ⋅ ◦
-
-<br>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="divider" />
 </div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
 
 <!-- ════════════════════════════════════════════════════════════════ -->
 <!--  CONNECT                                                         -->
@@ -324,31 +310,32 @@ const aryan: Developer = {
 <br>
 
 <a href="https://www.linkedin.com/in/aryan-jaiswal-a87b5335a" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="55" />
+  <img src="https://skillicons.dev/icons?i=linkedin" width="55" alt="LinkedIn" />
 </a>
 &nbsp;
 <a href="https://github.com/ARYAN-JAISWAL7425" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="55" />
+  <img src="https://skillicons.dev/icons?i=github" width="55" alt="GitHub" />
 </a>
 &nbsp;
 <a href="mailto:aryanoffical7425@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" width="55" />
+  <img src="https://skillicons.dev/icons?i=gmail" width="55" alt="Gmail" />
 </a>
 &nbsp;
 <a href="https://discord.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=discord" width="55" />
+  <img src="https://skillicons.dev/icons?i=discord" width="55" alt="Discord" />
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&height=30&lines=%E2%9C%A6+Code.+Build.+Deploy.+Repeat.+%E2%9C%A6;%E2%9C%A6+Always+Learning.+Always+Shipping.+%E2%9C%A6" />
-
-</div>
+### `✦ Code. Build. Deploy. Repeat. ✦`
+### `✦ Always Learning. Always Shipping. ✦`
 
 <br>
 
-<!-- ════════════════════════════════════════════════════════════════ -->
-<!--  FOOTER                                                          -->
-<!-- ════════════════════════════════════════════════════════════════ -->
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%" height="6" />
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,25:7c3aed,50:4c1d95,75:1a1b4b,100:0d1117&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=f5f3ff&fontAlignY=75&animation=twinkling)
+<br>
+
+**⟪ Thanks for visiting my profile! ⟫**
+
+</div>
