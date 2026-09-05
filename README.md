@@ -49,7 +49,7 @@ specialization:
   - LLM Applications
 
 currently_building:
-  - Fashion Street   # Clothing E-Commerce Platform
+  - EngineX  # Engineer career maker
   - Exploring Agentic AI workflows
 
 passion: >
